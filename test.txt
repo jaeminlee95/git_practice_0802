@@ -1,0 +1,2 @@
+Hello from the master branch
+This is a file being used for git practice
