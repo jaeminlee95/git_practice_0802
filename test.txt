@@ -1,2 +1,4 @@
 Hello from the master branch
 This is a file being used for git practice
+Now I am in the develop branch
+Here I am developing a new feature
